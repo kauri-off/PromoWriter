@@ -1,0 +1,8 @@
+{
+    "bind": "f8",
+    "mouse_type": false,
+    "type_delay": 0.01,
+    "clear_section": false,
+    "wait_bind": true,
+    "loop": true
+}
